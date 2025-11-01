@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "jimmys-burger-bar",
+    "title": "Jimmy's Burger Bar",
+    "category": "Brand Identity",
+    "year": "2024–Present",
+    "role": "Lead Designer",
+    "cover": "/placeholder.svg?height=600&width=800",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Define a cohesive visual identity for a growing burger brand that stands out in a competitive market.",
+      "approach": "Custom typography, red–cream palette inspired by classic diners, playful motion graphics for social media.",
+      "outcome": "40% increase in brand recall and 65% boost in social engagement within first quarter."
+    },
+    "credits": ["Art Direction — Ameli van Zyl", "Photography — Client Team", "Motion Graphics — Ameli van Zyl"]
+  },
+  {
+    "slug": "jj-glassworks",
+    "title": "JJ Glassworks",
+    "category": "Brand Refresh",
+    "year": "2025–Present",
+    "role": "Brand Designer",
+    "cover": "/placeholder.svg?height=600&width=800",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Modernize a traditional glassworks brand while maintaining artisan credibility and heritage.",
+      "approach": "Refined typography, elegant color palette, photography direction emphasizing craftsmanship.",
+      "outcome": "Successfully repositioned brand for premium market segment with 30% price increase acceptance."
+    },
+    "credits": ["Brand Strategy — Ameli van Zyl", "Photography Direction — Ameli van Zyl", "Web Design — Ameli van Zyl"]
+  },
+  {
+    "slug": "vogue-editorial",
+    "title": "Vogue Editorial Series",
+    "category": "Editorial & Print",
+    "year": "2024",
+    "role": "Layout Designer",
+    "cover": "/placeholder.svg?height=600&width=800",
+    "gallery": [
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200",
+      "/placeholder.svg?height=800&width=1200"
+    ],
+    "overview": {
+      "problem": "Create compelling editorial layouts that balance bold imagery with readable typography.",
+      "approach": "Dynamic grid systems, careful typographic hierarchy, attention to white space and rhythm.",
+      "outcome": "Featured in 6-page spread, positive reader feedback on visual storytelling."
+    },
+    "credits": ["Layout Design — Ameli van Zyl", "Photography — Various Contributors", "Art Direction — Editorial Team"]
+  }
+]
